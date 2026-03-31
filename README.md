@@ -64,9 +64,12 @@ So I built TraceLit to make runtime behavior visible.
 
 ## Feedback
 
-If you try TraceLit and something feels confusing, broken, or missing, please open an issue.
+If you try TraceLit and something feels confusing, broken, or missing, I'd love to hear about it.
 
-Feedback is very welcome.
+You can:
+
+- create an issue on GitHub
+- send an email to [support@tracelit.dev](mailto:support@tracelit.dev)
 
 ## Vision
 
